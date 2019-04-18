@@ -1,0 +1,12 @@
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\02- Business Logic Layer\bin\Debug\02- Business Logic Layer.dll.config
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\02- Business Logic Layer\bin\Debug\02- Business Logic Layer.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\02- Business Logic Layer\bin\Debug\02- Business Logic Layer.pdb
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\02- Business Logic Layer\bin\Debug\01- Data Access Layer.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\02- Business Logic Layer\bin\Debug\EntityFramework.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\02- Business Logic Layer\bin\Debug\EntityFramework.SqlServer.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\02- Business Logic Layer\bin\Debug\01- Data Access Layer.pdb
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\02- Business Logic Layer\bin\Debug\EntityFramework.xml
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\02- Business Logic Layer\bin\Debug\EntityFramework.SqlServer.xml
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\02- Business Logic Layer\obj\Debug\02- Business Logic Layer.csprojResolveAssemblyReference.cache
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\02- Business Logic Layer\obj\Debug\02- Business Logic Layer.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\02- Business Logic Layer\obj\Debug\02- Business Logic Layer.pdb

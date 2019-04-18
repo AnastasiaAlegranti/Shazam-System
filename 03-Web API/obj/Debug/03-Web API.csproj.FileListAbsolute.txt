@@ -1,0 +1,52 @@
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\ApplicationInsights.config
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\roslyn\csc.exe
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\roslyn\Microsoft.CodeAnalysis.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\roslyn\Microsoft.CSharp.Core.targets
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\roslyn\System.Collections.Immutable.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\roslyn\System.Reflection.Metadata.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\roslyn\vbc.exe
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\roslyn\VBCSCompiler.exe
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\roslyn\VBCSCompiler.exe.config
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\03-Web API.dll.config
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\03-Web API.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\03-Web API.pdb
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\02- Business Logic Layer.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\EntityFramework.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\EntityFramework.SqlServer.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\Microsoft.AI.Agent.Intercept.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\Microsoft.AI.DependencyCollector.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\Microsoft.AI.PerfCounterCollector.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\Microsoft.AI.Web.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\Microsoft.AI.WindowsServer.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\Microsoft.ApplicationInsights.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\Newtonsoft.Json.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\System.Net.Http.Formatting.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\System.Web.Cors.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\System.Web.Http.Cors.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\System.Web.Http.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\System.Web.Http.WebHost.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\01- Data Access Layer.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\02- Business Logic Layer.pdb
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\EntityFramework.xml
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\EntityFramework.SqlServer.xml
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\Microsoft.AI.DependencyCollector.xml
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\Microsoft.AI.Web.xml
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\Microsoft.AI.WindowsServer.xml
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\Microsoft.ApplicationInsights.xml
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\System.Net.Http.Formatting.xml
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\System.Web.Http.xml
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\System.Web.Http.Cors.xml
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\Newtonsoft.Json.xml
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\System.Web.Http.WebHost.xml
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\bin\01- Data Access Layer.pdb
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\obj\Debug\03-Web API.csprojResolveAssemblyReference.cache
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\obj\Debug\03-Web API.dll
+e:\המסמכים שלי\visual studio 2015\Projects\ShazamSystem\03-Web API\obj\Debug\03-Web API.pdb
